@@ -2,7 +2,7 @@
 Current work for SC<br>Learning ML and Data Science
 
 ### Connect with me:
-[![Telegram] (https://github.com/badges/shields/assets/10694593/c5c5acc3-f434-4a8d-a834-6d94a7ffb45a)](https://t.me/nmzakirov)
+[![Telegram] (https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/nmzakirov)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nmzaki) 
 
 # 💻 Tech Stack:
