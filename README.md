@@ -16,7 +16,7 @@ Current work for SC<br>Learning ML and Data Science
 
 ### Random Dev Quote
 <p align="center">
-  <img width="600" height="100" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img width="600" height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
 ---
