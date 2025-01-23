@@ -10,7 +10,7 @@ Current work for SC<br>Learning ML and Data Science
 # GitHub Stats:
 <p align="center">
   <img width="450" height="195" src="https://github-readme-stats.vercel.app/api?username=nmzaki&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)">
-  <img width="490" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=nmzaki&theme=github_dark">
+  <img width="490" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=nmzaki&theme=github_dark&hide_border=true">
   <img width="300" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmzaki&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
